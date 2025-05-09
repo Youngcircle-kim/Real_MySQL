@@ -49,6 +49,7 @@
 
 ## Commit Template
 `git commit -m "[챕터번호. 챕터명] 이름"`
+
 ex : `git commit -m "[Ch1. 소개] 김건"`
 
 
