@@ -37,12 +37,12 @@
 내
 용
 .
-<heading 1>읽으면서 들은 질문</heading 1>
+<heading 1>읽으면서 들은 궁금증</heading 1>
 - Q.1
 	- Ans.1
 - Q.2
 	- Ans.2
-<heading 1>처음본 개념 정리</heading 1>
+<heading 1>처음 본 개념 정리</heading 1>
 [word1](docs url)
 [word2](docs url)
 ```
