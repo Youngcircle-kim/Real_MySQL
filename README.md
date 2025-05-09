@@ -1,1 +1,54 @@
 # Real_MySQL
+
+# Contents
+## 1. 소개
+## 2. 설치와 설정
+## 3. 사용자 및 권한 
+## 4. 아키텍처
+## 5. 트랜잭션과 잠금
+## 6. 데이터 압축 
+## 7. 데이터 암호화
+## 8. 인덱스
+## 9. 옵티마이저와 힌트
+## 10. 실행 계획
+## Appendix
+
+# Template
+```md
+<heading 1>정리</heading 1>
+.
+내
+용
+.
+<heading 1>읽으면서 들은 질문</heading 1>
+- Q.1
+	- Ans.1
+- Q.2
+	- Ans.2
+<heading 1>처음본 개념 정리</heading 1>
+[word1](docs url) //Appendix 폴더 링크
+[word2](docs url)
+```
+
+## PR Template
+```md
+<heading 1>정리</heading 1>
+.
+내
+용
+.
+<heading 1>읽으면서 들은 질문</heading 1>
+- Q.1
+	- Ans.1
+- Q.2
+	- Ans.2
+<heading 1>처음본 개념 정리</heading 1>
+[word1](docs url)
+[word2](docs url)
+```
+
+## Commit Template
+`git commit -m "[챕터번호. 챕터명] 이름"`
+ex : `git commit -m "[Ch1. 소개] 김건"`
+
+
