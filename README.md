@@ -21,10 +21,10 @@
 용
 .
 <heading 1>읽으면서 생긴 궁금증</heading 1>
-- Q.1
-	- Ans.1
-- Q.2
-	- Ans.2
+- Q1.
+	- A1.
+- Q2.
+	- A2.
 <heading 1>처음본 개념 정리</heading 1>
 [word1](docs url) //Appendix 폴더 링크
 [word2](docs url)
@@ -38,10 +38,10 @@
 용
 .
 <heading 1>읽으면서 생긴 궁금증</heading 1>
-- Q.1
-	- Ans.1
-- Q.2
-	- Ans.2
+- Q1.
+	- A1.
+- Q2.
+	- A2.
 <heading 1>처음 본 개념 정리</heading 1>
 [word1](docs url)
 [word2](docs url)
