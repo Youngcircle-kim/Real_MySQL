@@ -20,7 +20,7 @@
 내
 용
 .
-<heading 1>읽으면서 들은 질문</heading 1>
+<heading 1>읽으면서 생긴 궁금증</heading 1>
 - Q.1
 	- Ans.1
 - Q.2
@@ -37,7 +37,7 @@
 내
 용
 .
-<heading 1>읽으면서 들은 궁금증</heading 1>
+<heading 1>읽으면서 생긴 궁금증</heading 1>
 - Q.1
 	- Ans.1
 - Q.2
